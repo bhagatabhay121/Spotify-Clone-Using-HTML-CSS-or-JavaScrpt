@@ -1,7 +1,7 @@
 const music = new Audio('vande.mp3');
 
-const clientId = '84f55e63d5b74f5782c99cd8f9384e75';
-const clientSecret = '1f20b7d6421149fd822079169b8ea1b4';
+const clientId = 'your client id';
+const clientSecret = 'your client secret';
 
 // Function to get an access token
 async function getAccessToken() {
